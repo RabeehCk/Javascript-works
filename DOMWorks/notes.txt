@@ -1,0 +1,3 @@
+async   ->  returns a promise
+await   ->  wait for a promise
+

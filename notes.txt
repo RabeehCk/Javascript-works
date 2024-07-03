@@ -1,0 +1,13 @@
+
+
+    - hoisting
+
+    - type coersion
+
+    - diff b/w == and ===
+
+    - diff b/w undefined and null
+
+Array
+
+    - methods(map,reduce,filter,sort)
